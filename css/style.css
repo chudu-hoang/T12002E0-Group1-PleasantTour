@@ -2846,6 +2846,48 @@ h3 {
   background-position: center center;
 }
 
+#PhuQuoc {
+  background-image: url(../img/banner/PhuQuoc.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+#LySon {
+  background-image: url(../img/banner/LySon.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+#DaLat {
+  background-image: url(../img/banner/DaLat.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+#NinhBinh {
+  background-image: url(../img/banner/NinhBinh.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+#DaNang {
+  background-image: url(../img/banner/DaNang.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+#Hue {
+  background-image: url(../img/banner/Hue.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
 @media (max-width: 767px) {
   /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
   .destination_banner_wrap {
@@ -3382,6 +3424,54 @@ h3 {
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
 .video_bg {
   background-image: url(../img/banner/video.png);
+}
+
+#Huevid {
+  background-image: url(../img/banner/Hue3.jpg);
+}
+
+#QuyNhonvid {
+  background-image: url(../img/banner/QuyNhon2.jpg);
+}
+
+#NhaTrangvid {
+  background-image: url(../img/banner/NhaTrang2.jpg);
+}
+
+#PhuQuocvid {
+  background-image: url(../img/banner/PhuQuoc6.jpg);
+}
+
+#LySonvid {
+  background-image: url(../img/banner/LySon5.jpg);
+}
+
+#SaPavid {
+  background-image: url(../img/banner/SaPa2.jpg);
+}
+
+#BaNavid {
+  background-image: url(../img/banner/BaNaHill2.jpg);
+}
+
+#DaLatvid {
+  background-image: url(../img/banner/DaLat5.jpg);
+}
+
+#NinhBinhvid {
+  background-image: url(../img/banner/NinhBinh5.jpg);
+}
+
+#HCMvid {
+  background-image: url(../img/banner/HoChiMinh2.jpg);
+}
+
+#HaNoivid {
+  background-image: url(../img/banner/HaNoi2.jpg);
+}
+
+#DaNangvid {
+  background-image: url(../img/banner/DaNang3.jpg);
 }
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
